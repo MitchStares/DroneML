@@ -1,10 +1,4 @@
-Code used for paper: 
-"Detecting plant species in the field with deep learning
-and drone technology" 
-(in press) Methods in Ecology and Evolution
-
-Please cite paper if you make use of this code.
-Dataset available on Zenodo.
+Repository to test Machine Learning Techniques from James and Bradshaw 2020 and apply to new species. 
 
 Dependecies:
 Tensorflow version: 1.14.0
