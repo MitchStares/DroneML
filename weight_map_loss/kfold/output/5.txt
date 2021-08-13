@@ -1,0 +1,7 @@
+           Batchwise,         Average
+Precision 0.45 0.42
+Recall    0.44 0.50
+F1        0.45 0.43
+Dice      0.45 0.43
+IOU       0.29 0.30
+Accuracy  0.88
